@@ -2,3 +2,4 @@ This is file8
 Adding new line to file8
 Adding another new line to file8
 Adding new line for conflict branch
+Adding new line for user 1
